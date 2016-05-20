@@ -1,0 +1,9 @@
+{
+    "name": "sleekdoc/sample",
+    "description": "",
+    "require": {
+        "sleekdoc/sleekdoc": "^0.1"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
