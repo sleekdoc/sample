@@ -7,4 +7,6 @@ $blade = $generator->make(
             $root.'/storage/cache'
          );
 
+// echo '<pre>';var_dump($generator->getData());exit;
+
 echo $blade->render();

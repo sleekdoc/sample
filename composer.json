@@ -4,6 +4,11 @@
     "require": {
         "sleekdoc/sleekdoc": "^0.1"
     },
+    "autoload": {
+        "psr-4": {
+            "Daison\\SleekDoc\\Components\\": "components/"
+        }
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
