@@ -68,7 +68,7 @@
             </div>
             <div class="footer">
                 <hr>
-                <a href="http://github.com/sleekdoc/sleekdoc">SleekDoc &copy; 2006</a>
+                <a href="http://github.com/sleekdoc/sleekdoc">SleekDoc &copy; 2016</a>
             </div>
         </div>
 
